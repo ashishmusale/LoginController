@@ -1,6 +1,6 @@
 # LoginController
 
-[![CI Status](http://img.shields.io/travis/Musale, Ashish/LoginController.svg?style=flat)](https://travis-ci.org/Musale, Ashish/LoginController)
+[![CI Status](http://img.shields.io/travis/ashishmusale/LoginController.svg?style=flat)](https://travis-ci.org/ashishmusale/LoginController)
 [![Version](https://img.shields.io/cocoapods/v/LoginController.svg?style=flat)](http://cocoapods.org/pods/LoginController)
 [![License](https://img.shields.io/cocoapods/l/LoginController.svg?style=flat)](http://cocoapods.org/pods/LoginController)
 [![Platform](https://img.shields.io/cocoapods/p/LoginController.svg?style=flat)](http://cocoapods.org/pods/LoginController)
