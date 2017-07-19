@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LoginController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LoginController.'
+  s.summary          = 'LoginController that allows you to create a simple login page with username and password'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,14 +28,14 @@ LoginController is a view controller that provides easier interface for login sc
   s.source           = { :git => 'https://github.com/ashishmusale/LoginController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'LoginController/Classes/**/*'
-  
   # s.resource_bundles = {
   #   'LoginController' => ['LoginController/Assets/*.png']
   # }
 
+  s.frameworks = 'UIKit'
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
