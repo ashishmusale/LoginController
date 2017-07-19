@@ -1,0 +1,6 @@
+framework module LoginController {
+  umbrella header "LoginController-umbrella.h"
+
+  export *
+  module * { export * }
+}

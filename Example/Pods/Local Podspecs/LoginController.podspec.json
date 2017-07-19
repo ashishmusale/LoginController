@@ -1,0 +1,22 @@
+{
+  "name": "LoginController",
+  "version": "0.1.0",
+  "summary": "A short description of LoginController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ashishmusale/LoginController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Musale, Ashish": "musale.ashish@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ashishmusale/LoginController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoginController/Classes/**/*"
+}
