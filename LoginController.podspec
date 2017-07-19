@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 LoginController is a view controller that provides easier interface for login screen with callback for signin. It allows for customization of the screen
                        DESC
 
-  s.homepage         = 'https://github.com/Musale, Ashish/LoginController'
+  s.homepage         = 'https://github.com/ashishmusale/LoginController'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Musale, Ashish' => 'musale.ashish@gmail.com' }
