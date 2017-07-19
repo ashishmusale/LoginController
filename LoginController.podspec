@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+LoginController is a view controller that provides easier interface for login screen with callback for signin. It allows for customization of the screen
                        DESC
 
   s.homepage         = 'https://github.com/Musale, Ashish/LoginController'
